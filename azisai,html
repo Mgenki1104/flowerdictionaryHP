@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <title>flowerdictionary</title>
-    <link rel="stylesheet" href="C:\Users\81901\OneDrive\デスクトップ\flowerdictionary\flowerdictionary.css">
-    <link rel="stylesheet" href="C:\Users\81901\OneDrive\デスクトップ\flowerdictionary\flowers.css">
+    <link rel="stylesheet" href="flowerdictionary.css">
+    <link rel="stylesheet" href="flowers.css">
   </head>
 
 
@@ -26,5 +26,5 @@
   </nav>
   
     <div style="text-align: center;">
-      <img class="flowers-image" src="C:\Users\81901\OneDrive\デスクトップ\flowerdictionary\flower picture\アジサイ.jpg" />
+      <img class="flowers-image" src="アジサイ.jpg">
     </div>
