@@ -75,12 +75,12 @@ main{
   width: 100%; /* 横幅いっぱい */
   height: 100%; /* 高さ300px */
   background-image: url(白煉瓦.jpg);
-  z-index: -1;
+  z-index: 0.1;
 }
 .flower-image {
   width: 200px;
   height: 200px;
-  margin: 30px;
+  margin: 50px;
   border-radius: 40% 55% 30% 35%;
 }
 
