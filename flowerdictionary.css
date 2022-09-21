@@ -83,7 +83,9 @@ main{
   margin: 50px;
   border-radius: 40% 55% 30% 35%;
 }
-
+.flower-image:hover {
+  transform: scale(1.1);
+}
 .flowers{
   margin: 0 20px;
   display: inline-block;
