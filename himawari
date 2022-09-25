@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>flowerdictionary</title>
+    <link rel="stylesheet" href="flowerdictionary.css">
+    <link rel="stylesheet" href="flowers.css">
+  </head>
+
+  <body>
+  <nav>
+    <ul class="nav-list">
+      <li class="nav-list-item">
+        <a href="index.html">Home</a>
+      </li>
+    </ul>
+  </nav>
+<div class="body-box">
+    <div style="text-align: center;">
+      <img class="flowers-image" src="ひまわり.jpg" />
+    </div>
+  <div style="text-align: center;">
+    <h1>桜</h1>
+    <h2>
+      花言葉
+     一般：光輝・尊敬
+      誕生花
+      一般：8月15日
+    </h2>
+  　 <p>
+    ひまわりは、キク科ヒマワリ属に属した花です。8月の代表の花としても親しまれて、そのページでお話しましたが、ひまわりはいつの時代も「太陽」と関連付けられることが多いです。ひまわりは一日中太陽に顔を向けていることから、キリスト教では太陽をキリストとし、ひまわりを「信仰に基づく恭順」の象徴としています。そんなヒマワリの花言葉の代表は、「光輝・尊敬」です。
+    </p>
+  </div>
