@@ -1,7 +1,7 @@
 # flowerdictionaryHP
 
 #概要
-もらった花、見かけた花、プレゼントする花などの花言葉を検索、閲覧するためのホームページです。
+もらった花、見かけた花、プレゼントする花などの花言葉を閲覧するためのデモホームページです。
 #URL
 https://mgenki1104.github.io/flowerdictionaryHP/index.html
 
